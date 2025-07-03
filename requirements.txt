@@ -1,0 +1,6 @@
+requests
+pylint
+uvicorn 
+httpx
+fastapi
+ruff
