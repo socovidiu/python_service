@@ -4,3 +4,7 @@ uvicorn
 httpx
 fastapi
 ruff
+pytest
+mypy
+black
+coverage

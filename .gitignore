@@ -1,4 +1,8 @@
 .venv/
 .ipynb_checkpoints
 .ruff_cache
-
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage/
+*.__pycache__
